@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a Junior Developer, this readme will be implemented as long as I have time.
-I'm a passionate Javascript, Java developper and focusing on Angular right now.
+I'm a Developer, this readme will be implemented as long as I have time.
+I'm a passionate Java / JavaScript developper and focusing on Angular / React right now.
 Happy to share knowledge with everyone else, feel free to contact me anytime.
 
 <!--
